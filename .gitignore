@@ -1,0 +1,6 @@
+.idea/
+bot/__pycache__/
+bin/
+lib/
+.DS_Store
+.venv
